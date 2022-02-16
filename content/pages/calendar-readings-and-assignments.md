@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar, Readings, and Assignments
 uid: 33ec5deb-42ae-6dcd-5fdf-875ef3f83ad2
 ---
