@@ -11,10 +11,10 @@ image_metadata:
   image-alt: Detail of a screenshot from Loss, Undersea, an artificial intelligence-based
     interactive narrative by D. Fox Harrell.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 resourcetype: Image
 title: CMS-405s13-th.jpg
 uid: bb1a5e9d-b004-a029-a6d4-3bfaa6ea7b47
 ---
 Detail of a screenshot from Loss, Undersea, an artificial intelligence-based interactive narrative by D. Fox Harrell.
-
