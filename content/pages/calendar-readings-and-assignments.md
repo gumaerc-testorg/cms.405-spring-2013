@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Calendar, Readings, and Assignments
+type: CourseSection
 uid: 33ec5deb-42ae-6dcd-5fdf-875ef3f83ad2
 ---
 
