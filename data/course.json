@@ -29,7 +29,9 @@
   },
   "course_title": "Media and Methods: Seeing and Expression",
   "course_description": "In this course students create digital visual images and analyze designs from historical and theoretical perspectives with an emphasis on art and design, examining visual experience in broad terms, and from the perspectives of both creators and viewers. The course addresses key topics such as: image making as a cognitive and perceptual practice, the production of visual significance and meaning, and the role of technology in creating and understanding digitally produced images. Students will be given design problems growing out of their reading and present solutions using technologies such as the Adobe Creative Suite and/or similar applications.\n",
-  "department_numbers": [],
+  "department_numbers": [
+    "CMS-W"
+  ],
   "extra_course_numbers": "",
   "primary_course_number": "CMS.405",
   "course_image_thumbnail": {
@@ -37,6 +39,7 @@
     "website": "cms-405-media-and-methods-seeing-and-expression-spring-2013"
   },
   "learning_resource_types": [],
-  "site_uid": "3930d32a-6d3e-415b-a5dc-ac2da1bc1749",
+  "site_uid": "d1ce2fb9-4c8a-4e35-92e7-a88f4afd336d",
+  "site_short_id": "cms.405-spring-2013",
   "title": "Course Metadata"
 }

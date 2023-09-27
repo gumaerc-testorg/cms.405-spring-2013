@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, learning objectives, grading, coursework, production,
+  attendance and participation, and required texts.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: c292bd6a-7740-096b-c68d-96dddf3b3ae4
 ---
 
