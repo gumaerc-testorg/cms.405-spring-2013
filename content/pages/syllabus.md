@@ -119,9 +119,9 @@ Required Texts
 
 You are required to purchase the following books. All other texts will be provided to you either as print-outs or pdfs. These books are available from a variety of online booksellers.
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262540292) Dondis, Donis. _A Primer of Visual Literacy_. MIT Press, 1973. ISBN: 9780262540292. \[Preview with [Google Books](http://books.google.com/books?id=rrf5SisMzQgC&pg=PAfrontcover)\]
+ {{% resource_link "f59de8b0-54b9-407e-9092-55b2c4b22b09" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dondis, Donis. _A Primer of Visual Literacy_. MIT Press, 1973. ISBN: 9780262540292. \[Preview with {{% resource_link "f4500a78-d23e-408c-85e2-59ad5b303808" "Google Books" %}}\]
 
- [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019330) Harrell, D. Fox. _Phantasmal Media: An Approach to Imagination, Computation, Expression_. MIT Press, 2013. ISBN: 9780262019330.
+ {{% resource_link "a472b6e5-fcf5-4ad2-b6a4-340556d02d49" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Harrell, D. Fox. _Phantasmal Media: An Approach to Imagination, Computation, Expression_. MIT Press, 2013. ISBN: 9780262019330.
 
 McCloud, Scott. _Understanding Comics: The Invisible Art_. William Morrow Paperbacks, 1994. ISBN: 9780060976255.
 
