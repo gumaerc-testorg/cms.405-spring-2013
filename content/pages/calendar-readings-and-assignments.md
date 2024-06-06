@@ -8,9 +8,9 @@ ocw_type: ''
 title: Calendar, Readings, and Assignments
 uid: 33ec5deb-42ae-6dcd-5fdf-875ef3f83ad2
 ---
-\[DD\] = {{% resource_link "f59de8b0-54b9-407e-9092-55b2c4b22b09" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dondis, Donis. *A Primer of Visual Literacy*. MIT Press, 1973. ISBN: 9780262540292. \[Preview with {{% resource_link "f4500a78-d23e-408c-85e2-59ad5b303808" "Google Books" %}}\]
+\[DD\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262540292) Dondis, Donis. *A Primer of Visual Literacy*. MIT Press, 1973. ISBN: 9780262540292. \[Preview with [Google Books](http://books.google.com/books?id=rrf5SisMzQgC&pg=PAfrontcover)\]
 
-\[DH\] = {{% resource_link "a472b6e5-fcf5-4ad2-b6a4-340556d02d49" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Harrell, D. Fox. *Phantasmal Media: An Approach to Imagination, Computation, Expression*. MIT Press, 2013. ISBN: 9780262019330.
+\[DH\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019330) Harrell, D. Fox. *Phantasmal Media: An Approach to Imagination, Computation, Expression*. MIT Press, 2013. ISBN: 9780262019330.
 
 \[SM\] = McCloud, Scott. *Understanding Comics: The Invisible Art*. William Morrow Paperbacks, 1994. ISBN: 9780060976255.
 
@@ -62,7 +62,7 @@ Semiotics and Sequential Art / Semiotics Based Critique
 
 \[DH\] Chapter 4.
 
-Chandler, Daniel. {{% resource_link "02e7892c-190a-4e6e-ae82-aed5fe190d24" "*Semiotics for Beginners: Signs*" %}}.
+Chandler, Daniel. [*Semiotics for Beginners: Signs*](http://visual-memory.co.uk/daniel/Documents/S4B/sem02.html).
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 1 in-progress critique
@@ -76,7 +76,7 @@ Assignment 1 in-progress critique
 Psychology and the Image
 {{< tdclose >}}{{< tdopen >}}
 
-Allman, Ronald, and Jennifer Fultz. {{% resource_link "78116e0f-88a1-4020-a154-5cccbb7b71d8" "*Gestalt Psychology.*" %}}
+Allman, Ronald, and Jennifer Fultz. [*Gestalt Psychology.*](http://homepages.ius.edu/rallman/gestalt.html)
 
 \[DH\] Chapters 1 and 2.
 
@@ -94,9 +94,9 @@ note: work on Assignment 2 is continued in Assignment 3, and both are described 
 Blending and Design
 {{< tdclose >}}{{< tdopen >}}
 
-Cohn, Neil. "{{% resource_link "94bb1f3b-b8c7-4979-b240-12b04e18ada8" "Extra! Extra! Semantics in Comics!: The Conceptual Structure of Chicago Tribune Advertisements" %}}." *Journal of Pragmatics* 42, no. 11 (2010): 3138–46.
+Cohn, Neil. "[Extra! Extra! Semantics in Comics!: The Conceptual Structure of Chicago Tribune Advertisements](http://dx.doi.org/10.1016/j.pragma.2010.04.016)." *Journal of Pragmatics* 42, no. 11 (2010): 3138–46.
 
-Turner, Mark. "{{% resource_link "a5a981cd-9895-45e1-8b9c-0503ad84ca22" "Bedtime with Shahrazad" %}}." Chapter 1 in *The Literary Mind: The Origins of Thought and Language*. Oxford University Press, 1998. ISBN: 9780195126679. \[Preview with {{% resource_link "186ad0b5-6ad9-4891-adf9-bdb5afcd328e" "Google Books" %}}\]
+Turner, Mark. "[Bedtime with Shahrazad](http://markturner.org/lmx.html)." Chapter 1 in *The Literary Mind: The Origins of Thought and Language*. Oxford University Press, 1998. ISBN: 9780195126679. \[Preview with [Google Books](http://books.google.com/books?id=6PWewxndYgIC&pg=PA3=onepage)\]
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 work session
@@ -107,7 +107,7 @@ Assignment 2 work session
 {{< tdclose >}}{{< tdopen >}}
 A Science of Design?
 {{< tdclose >}}{{< tdopen >}}
-Ramachandran, V. S., and William Hirstein. {{% resource_link "fec9a445-5c7f-4056-9a6f-61edf92f66d8" "\"The Science of Art.\" (PDF)" %}} *Journal of Consciousness Studies* 6, no. 6–7 (1999): 15–51.
+Ramachandran, V. S., and William Hirstein. ["The Science of Art." (PDF)](http://www.dgp.toronto.edu/~hertzman/courses/csc2521/fall_2007/ramachandran-science-art.pdf) *Journal of Consciousness Studies* 6, no. 6–7 (1999): 15–51.
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 due
 {{< tdclose >}}{{< tdopen >}}
@@ -143,7 +143,7 @@ Text and Image
 {{< tdclose >}}{{< tdopen >}}
 Text III: Dynamic / Kinetic Typography
 {{< tdclose >}}{{< tdopen >}}
-Find a movie title sequence that you feel uses moving text in an effective way. Bring a url or example from this site: {{% resource_link "a996bc1a-32f6-44b6-b639-fb5e8587e514" "http://www.artofthetitle.com/" %}}
+Find a movie title sequence that you feel uses moving text in an effective way. Bring a url or example from this site: [http://www.artofthetitle.com/](http://www.artofthetitle.com/)
 {{< tdclose >}}{{< tdopen >}}
 Assignment 3 due
 {{< tdclose >}}{{< tdopen >}}

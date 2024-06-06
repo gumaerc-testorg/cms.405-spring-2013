@@ -3,6 +3,7 @@ content_type: resource
 description: Detail of a screenshot from Loss, Undersea, an artificial intelligence-based
   interactive narrative by D. Fox Harrell.
 file: /courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/bb1a5e9db004a029a6d43bfaa6ea7b47_CMS-405s13-th.jpg
+file_size: 28606
 file_type: image/jpeg
 image_metadata:
   caption: "Detail of a screenshot from Loss, Undersea, an artificial intelligence-based\
