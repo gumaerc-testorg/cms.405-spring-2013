@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding assignment 3.
-file: /courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/9eb48625a1e8de058d60841a866b5257_MITCMS_405S13_assignment3.pdf
+file: /ol-ocw-studio-app/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/9eb48625a1e8de058d60841a866b5257_MITCMS_405S13_assignment3.pdf
 file_size: 179877
 file_type: application/pdf
 learning_resource_types: []
