@@ -76,7 +76,7 @@ Assignment 1 in-progress critique
 Psychology and the Image
 {{< tdclose >}}{{< tdopen >}}
 
-Allman, Ronald, and Jennifer Fultz. [*Gestalt Psychology.*](http://homepages.ius.edu/rallman/gestalt.html)
+Allman, Ronald, and Jennifer Fultz. *Gestalt Psychology.*
 
 \[DH\] Chapters 1 and 2.
 
