@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding exercise 0.
-file: /courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/b654d4490d03f1c3589f7e09f38b9130_MITCMS_405S13_exercise_0.pdf
+file: /ol-ocw-studio-app/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/b654d4490d03f1c3589f7e09f38b9130_MITCMS_405S13_exercise_0.pdf
 file_size: 94783
 file_type: application/pdf
 learning_resource_types: []
