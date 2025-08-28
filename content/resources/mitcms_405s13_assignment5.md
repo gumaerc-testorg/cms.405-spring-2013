@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding final project assigned.
-file: /courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/4b34aac09057b2eefe8ee6d3a4d46274_MITCMS_405S13_assignment5.pdf
+file: /ol-ocw-studio-app/courses/cms-405-media-and-methods-seeing-and-expression-spring-2013/4b34aac09057b2eefe8ee6d3a4d46274_MITCMS_405S13_assignment5.pdf
 file_size: 291078
 file_type: application/pdf
 learning_resource_types: []
