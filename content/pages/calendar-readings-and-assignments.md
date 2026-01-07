@@ -8,9 +8,9 @@ ocw_type: ''
 title: Calendar, Readings, and Assignments
 uid: 33ec5deb-42ae-6dcd-5fdf-875ef3f83ad2
 ---
-\[DD\] = {{% resource_link "4b69a595-9f8b-4175-b269-af3f58c7f83e" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Dondis, Donis. *A Primer of Visual Literacy*. MIT Press, 1973. ISBN: 9780262540292. \[Preview with {{% resource_link "2614f7bc-4c5e-47e1-b2b1-5ddc3835f640" "Google Books" %}}\]
+\[DD\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262540292) Dondis, Donis. *A Primer of Visual Literacy*. MIT Press, 1973. ISBN: 9780262540292. \[Preview with [Google Books](http://books.google.com/books?id=rrf5SisMzQgC&pg=PAfrontcover)\]
 
-\[DH\] = {{% resource_link "ef153a7c-4e2b-4ea0-80d1-799e606f62ca" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Harrell, D. Fox. *Phantasmal Media: An Approach to Imagination, Computation, Expression*. MIT Press, 2013. ISBN: 9780262019330.
+\[DH\] = [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262019330) Harrell, D. Fox. *Phantasmal Media: An Approach to Imagination, Computation, Expression*. MIT Press, 2013. ISBN: 9780262019330.
 
 \[SM\] = McCloud, Scott. *Understanding Comics: The Invisible Art*. William Morrow Paperbacks, 1994. ISBN: 9780060976255.
 
@@ -62,7 +62,7 @@ Semiotics and Sequential Art / Semiotics Based Critique
 
 \[DH\] Chapter 4.
 
-Chandler, Daniel. {{% resource_link "c0c545f3-f8d7-4c14-9bf2-1a91c710c6cc" "*Semiotics for Beginners: Signs*" %}}.
+Chandler, Daniel. [*Semiotics for Beginners: Signs*](http://visual-memory.co.uk/daniel/Documents/S4B/sem02.html).
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 1 in-progress critique
@@ -94,9 +94,9 @@ note: work on Assignment 2 is continued in Assignment 3, and both are described 
 Blending and Design
 {{< tdclose >}}{{< tdopen >}}
 
-Cohn, Neil. "{{% resource_link "728fd206-89ef-4246-8e17-c11008c6bd23" "Extra! Extra! Semantics in Comics!: The Conceptual Structure of Chicago Tribune Advertisements" %}}." *Journal of Pragmatics* 42, no. 11 (2010): 3138–46.
+Cohn, Neil. "[Extra! Extra! Semantics in Comics!: The Conceptual Structure of Chicago Tribune Advertisements](http://dx.doi.org/10.1016/j.pragma.2010.04.016)." *Journal of Pragmatics* 42, no. 11 (2010): 3138–46.
 
-Turner, Mark. "{{% resource_link "62d66838-7202-463c-8e17-2e915d33a5b1" "Bedtime with Shahrazad" %}}." Chapter 1 in *The Literary Mind: The Origins of Thought and Language*. Oxford University Press, 1998. ISBN: 9780195126679. \[Preview with {{% resource_link "fdfe3242-6967-4c52-856c-5d2745a79141" "Google Books" %}}\]
+Turner, Mark. "[Bedtime with Shahrazad](http://markturner.org/lmx.html)." Chapter 1 in *The Literary Mind: The Origins of Thought and Language*. Oxford University Press, 1998. ISBN: 9780195126679. \[Preview with [Google Books](http://books.google.com/books?id=6PWewxndYgIC&pg=PA3=onepage)\]
 
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 work session
@@ -107,7 +107,7 @@ Assignment 2 work session
 {{< tdclose >}}{{< tdopen >}}
 A Science of Design?
 {{< tdclose >}}{{< tdopen >}}
-Ramachandran, V. S., and William Hirstein. {{% resource_link "1af0cd65-0c21-42f0-8bfa-b56eab12b6da" "\"The Science of Art.\" (PDF)" %}} *Journal of Consciousness Studies* 6, no. 6–7 (1999): 15–51.
+Ramachandran, V. S., and William Hirstein. ["The Science of Art." (PDF)](http://www.dgp.toronto.edu/~hertzman/courses/csc2521/fall_2007/ramachandran-science-art.pdf) *Journal of Consciousness Studies* 6, no. 6–7 (1999): 15–51.
 {{< tdclose >}}{{< tdopen >}}
 Assignment 2 due
 {{< tdclose >}}{{< tdopen >}}
@@ -143,7 +143,7 @@ Text and Image
 {{< tdclose >}}{{< tdopen >}}
 Text III: Dynamic / Kinetic Typography
 {{< tdclose >}}{{< tdopen >}}
-Find a movie title sequence that you feel uses moving text in an effective way. Bring a url or example from this site: {{% resource_link "77d28672-c4fa-4f87-976d-87fde7acef2d" "http://www.artofthetitle.com/" %}}
+Find a movie title sequence that you feel uses moving text in an effective way. Bring a url or example from this site: [http://www.artofthetitle.com/](http://www.artofthetitle.com/)
 {{< tdclose >}}{{< tdopen >}}
 Assignment 3 due
 {{< tdclose >}}{{< tdopen >}}
